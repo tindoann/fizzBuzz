@@ -18,3 +18,6 @@ for (let i=1; i <= 100; i+=1){
 	}
 }
 
+
+// 1, 2, Fizz, 4, Buzz, ....13, 14, FizzBuzz
+
